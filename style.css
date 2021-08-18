@@ -1,0 +1,20 @@
+img{
+    width: 30%;
+}
+body{
+    background-color: rgb(128, 0, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+div{
+    border-width: 2px;
+    border-color: azure;
+    border-style: dashed;
+}
+footer{
+    background-color: azure;
+    color:rgb(128, 0, 255);
+}
+#h3footer{
+    padding:10px;
+}
